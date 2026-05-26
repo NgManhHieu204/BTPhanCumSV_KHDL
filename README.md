@@ -15,7 +15,7 @@ Dự án này là bài tập thực hành Chương 6 thuộc môn **Khoa học d
 ├── phancumsvien.py              # File mã nguồn Python xử lý dữ liệu, chạy mô hình và vẽ biểu đồ
 ├── dactrung.csv                 # File bảng đặc trưng (Features) sau khi trích xuất
 ├── kqphancum.xlsx               # File kết quả phân cụm cuối cùng
-├── clustering_visualization.png # Biểu đồ trực quan hóa 6 khía cạnh phân tích chuyên sâu
+├── bieudo_phancum.png           # Biểu đồ trực quan hóa 6 khía cạnh phân tích chuyên sâu
 └── README.md                    # File mô tả dự án này
 ```
 
