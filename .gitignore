@@ -1,0 +1,8 @@
+# Bỏ qua các thư mục/file cấu hình của IDE (VS Code, PyCharm,...)
+.vscode/
+.idea/
+
+# Bỏ qua các file bộ nhớ đệm sinh ra khi chạy Python
+__pycache__/
+*.py[cod]
+*$py.class
